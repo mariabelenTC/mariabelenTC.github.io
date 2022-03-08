@@ -47,13 +47,14 @@ h1::after{
   display: block;
   width: 30%;
   height: 10px;
+  content: "";
   margin: auto;
   background: #fff;
 }
 
 .overlay{
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 100%;
   position: absolute;
   background: rgba(0, 0, 0, 0.575);
 }
