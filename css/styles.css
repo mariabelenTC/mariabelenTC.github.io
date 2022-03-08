@@ -66,19 +66,3 @@ h1::after{
   background: rgba(0, 0, 0, 0.596);
 }
 
-@media screen and (max-width: 800px){
-  h1{
-      font-size: 50px;
-  }
-}
-
-@media screen and (max-width: 500px){
-  h1{
-      font-size: 30px;
-      margin-bottom: 0;
-  }
-
-  h1::after{
-      display: none;
-  }
-}
