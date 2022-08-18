@@ -3,7 +3,7 @@
 
 
 
-* [Configuración de un entorno para ejecutar demostraciones](environment.md)
+* Configuración de un entorno para ejecutar demostraciones 
 
 * [Primeros pasos para crear una escena de cuadro A] figures-01
   Se trata de una escena simple, basada en la documentación de A-Frame (https://aframe.io/docs/1.2.0/introduction/#getting-started).
