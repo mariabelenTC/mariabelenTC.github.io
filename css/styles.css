@@ -7,7 +7,7 @@
 }
 html {
   font-family: sans-serif;
-  scroll-snap-type: mandatory;
+  scroll-snap-type: x mandatory;
   scroll-snap-points-y: repeat(100vh);
   scroll-snap-type: y mandatory;
   }
@@ -25,9 +25,7 @@ header {
 
 
 }
-section.menufijo abajo{
 
-}
 section.menufijo{
   z-index: 15;
   top: 0;
